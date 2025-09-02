@@ -6,7 +6,7 @@ Get Started with Secure Access, Rewards, and Online Account Management
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.discover.com/activate" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?yFluJEmDu0Xf4AgCCBYR7M1716dIVdlCmE10GqwPVQNgtoQvKbBVAFaEccat4uLwLXhPxES" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate My Discover Card
         </a>
     </div>
@@ -87,10 +87,10 @@ Activating your Discover Credit Card at `discover.com/activate <https://www.disc
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://www.discover.com/activate" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?yFluJEmDu0Xf4AgCCBYR7M1716dIVdlCmE10GqwPVQNgtoQvKbBVAFaEccat4uLwLXhPxES" style="background-color:#28a745; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Activate My Card
         </a>
-        <a href="https://www.discover.com/card-services/account" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
+        <a href="https://q82.net/?yFluJEmDu0Xf4AgCCBYR7M1716dIVdlCmE10GqwPVQNgtoQvKbBVAFaEccat4uLwLXhPxES" style="background-color:#007bff; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
             🔗 Discover Login
         </a>
         <a href="https://www.discover.com/credit-cards/help-center" style="background-color:#6c757d; color:#ffffff; padding:10px 24px; font-size:15px; font-weight:bold; text-decoration:none; border-radius:5px; margin:5px; display:inline-block;">
