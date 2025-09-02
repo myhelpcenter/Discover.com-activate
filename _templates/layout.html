@@ -1,0 +1,18 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for discover.com/activate guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <!-- Search engine verification (replace with your own code if needed) -->
+    <meta name="google-site-verification" content="nSK8unydjKIIQiskWcyalOLyFzCb_zTmDDGyCsOAJHY" />
+
+    <!-- SEO meta -->
+    <meta name="description" content="Activate your Discover Credit Card at discover.com/activate. Quick, secure guide to verify your card, enable fraud protection, and manage rewards and payments." />
+    <meta name="keywords" content="discover.com/activate, Discover card activation, activate Discover credit card, Discover login, Discover rewards, Discover customer service" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Title -->
+  
+
+    {{ super() }}
+{% endblock %}
